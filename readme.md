@@ -1,12 +1,13 @@
-# Switcheo Code Challenge #1 #
+# Switcheo Frontend Code Challenge Submission#
 
-Kindly **do not fork** this repository as your responses may be publicly linked to this repository.
-Please submit your application along with the solutions attached or linked.   
+## Problem 1: Three Ways to Sum to n
 
-:exclamation: **Forking**  will result in penalisation upon submission of the code challenge. :exclamation:
+Implemented three unique functions to calculate the sum of numbers from 1 to `n`.
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
+## Problem 2: Fancy Form
 
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+Created a token currency swap form to swap cryptocurrencies using React, Typescript and Tailwind CSS. The application features real-time conversion between different cryptocurrencies and dark mode toggle feature.
+
+## Problem 3: Messy React
+
+Refactored provided ReactJS code to address computational inefficiencies and anti-patterns.
