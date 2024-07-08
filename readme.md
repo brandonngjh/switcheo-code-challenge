@@ -17,9 +17,9 @@ npm run dev
 ```
 
 ### Dark mode
-<img width="1280" alt="chrome_iBMrJYpeZR" src="https://github.com/brandonngjh/switcheo-code-challenge/assets/97477601/93dbc254-f1e8-480d-ba3c-0f4b393c6470">
+<img width="1280" alt="chrome_Q1hcAt5z2M" src="https://github.com/brandonngjh/switcheo-code-challenge/assets/97477601/54a17f36-d1c0-49de-bd30-192c90d4f7e4">
 ### Light mode
-<img width="1280" alt="chrome_lR5K4U6woT" src="https://github.com/brandonngjh/switcheo-code-challenge/assets/97477601/f6b4bc08-e85a-4c08-9398-8204553cd4eb">
+<img width="1280" alt="chrome_qZ9tR97sP1" src="https://github.com/brandonngjh/switcheo-code-challenge/assets/97477601/59bf1078-230c-4563-870b-a82f1c8e62ce">
 
 ## Problem 3: Messy React
 
